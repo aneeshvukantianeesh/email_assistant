@@ -1,0 +1,47 @@
+[
+    {
+        "intent": "Follow up after interview",
+        "A_fact": 1.0,
+        "A_tone": 1.0,
+        "A_structure": 1.0,
+        "B_fact": 1.0,
+        "B_tone": 0.0,
+        "B_structure": 0.33
+    },
+    {
+        "intent": "Leave request",
+        "A_fact": 1.0,
+        "A_tone": 1.0,
+        "A_structure": 1.0,
+        "B_fact": 1.0,
+        "B_tone": 0.5,
+        "B_structure": 0.33
+    },
+    {
+        "intent": "Meeting reminder",
+        "A_fact": 1.0,
+        "A_tone": 1.0,
+        "A_structure": 1.0,
+        "B_fact": 1.0,
+        "B_tone": 1.0,
+        "B_structure": 0.33
+    },
+    {
+        "intent": "Apology for delay",
+        "A_fact": 1.0,
+        "A_tone": 0.5,
+        "A_structure": 1.0,
+        "B_fact": 1.0,
+        "B_tone": 0.0,
+        "B_structure": 0.33
+    },
+    {
+        "intent": "Information request",
+        "A_fact": 1.0,
+        "A_tone": 1.0,
+        "A_structure": 1.0,
+        "B_fact": 1.0,
+        "B_tone": 0.5,
+        "B_structure": 0.33
+    }
+]

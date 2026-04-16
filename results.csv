@@ -1,0 +1,6 @@
+intent,A_fact,A_tone,A_structure,B_fact,B_tone,B_structure
+Follow up after interview,1,1,1,1,0,0.33
+Leave request,1,1,1,1,0.5,0.33
+Meeting reminder,1,1,1,1,1,0.33
+Apology for delay,1,0.5,1,1,0,0.33
+Information request,1,1,1,1,0.5,0.33
